@@ -3,3 +3,11 @@ SpeechRecognition
 deep-translator
 gTTS
 pydub
+flask 
+flask-socketio
+flask-cors
+python-socketio
+speechrecognition 
+deep-translator
+gtts 
+pydub
